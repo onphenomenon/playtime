@@ -1,0 +1,7 @@
+{
+  "misfit": {
+    "key": "FXWAMeq4twvTEwfh",
+    "secret": "h5UTR5PWnT9oeTrDKPyozHpHf66pLlRV",
+    "redirect_uri": "http://localhost:3000/misfit"
+  }
+}
